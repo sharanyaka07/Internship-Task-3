@@ -22,7 +22,21 @@ Perfect for learning backend development basics and CRUD operations.
 - **npm** – package manager  
 - **Postman** / **Thunder Client** – for API testing  
 - **Git** & **GitHub** – version control
+## Demo / Screenshots
 
+### Server running
+![Server running in terminal]
+### GET all books
+![GET /books response in Postman]
+
+### POST new book
+![POST /books - adding new book]
+
+### PUT update book
+![PUT /books/:id - updating title]
+
+### DELETE book
+![DELETE /books/:id - 204 success]
 ## Basic Setup & Run
 
 1. Clone the repo:
