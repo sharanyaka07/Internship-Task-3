@@ -27,16 +27,16 @@ Perfect for learning backend development basics and CRUD operations.
 ### Server running
 ![Server running in terminal]
 ### GET all books
-![GET /books response in Postman]
+![GET /books response in Postman](Get-operation.png)
 
 ### POST new book
 ![POST /books - adding new book]
 
 ### PUT update book
-![PUT /books/:id - updating title]
+![PUT /books/:id - updating title](Putoperation.png)
 
 ### DELETE book
-![DELETE /books/:id - 204 success]
+![DELETE /books/:id - 204 success](delete-operation.png)
 ## Basic Setup & Run
 
 1. Clone the repo:
